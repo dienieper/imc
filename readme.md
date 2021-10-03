@@ -13,7 +13,7 @@
 - 🎃 CSS.
 - ☕️ JAVASCRIPT.
 
-## :fire: Instalação:
+## :fire: Instalação:::
 
 1. Clone este repositorio.
 
